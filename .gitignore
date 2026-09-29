@@ -1,0 +1,5 @@
+﻿models/weights/*.pth
+models/weights/*.onnx.data
+__pycache__/
+*.pyc
+.env
