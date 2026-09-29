@@ -1,0 +1,145 @@
+{
+  "timestamp": "2026-09-29T05:57:58",
+  "dual_modal_pvnet": {
+    "accuracy": 0.0,
+    "macro_precision": 0.0,
+    "macro_recall": 0.0,
+    "macro_f1": 0.0,
+    "mean_iou": 0.884,
+    "mean_dice": 0.938,
+    "mAP_50": 0.912,
+    "class_metrics": {
+      "Normal": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 0
+      },
+      "Hot Spot": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 0
+      },
+      "Micro Crack": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 2
+      },
+      "Dust & Soiling": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 0
+      },
+      "Bird Dropping": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 3
+      },
+      "Physical Damage": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 0
+      },
+      "Discoloration": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 1
+      },
+      "Cell Defect": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 1
+      },
+      "Partial Shading": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 0
+      },
+      "Electrical Anomaly": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 1
+      }
+    }
+  },
+  "transfer_pvnet": {
+    "accuracy": 0.0,
+    "macro_precision": 0.0,
+    "macro_recall": 0.0,
+    "macro_f1": 0.0,
+    "mean_iou": 0.812,
+    "mean_dice": 0.895,
+    "mAP_50": 0.846,
+    "class_metrics": {
+      "Normal": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 0
+      },
+      "Hot Spot": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 0
+      },
+      "Micro Crack": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 2
+      },
+      "Dust & Soiling": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 0
+      },
+      "Bird Dropping": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 3
+      },
+      "Physical Damage": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 0
+      },
+      "Discoloration": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 1
+      },
+      "Cell Defect": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 1
+      },
+      "Partial Shading": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 0
+      },
+      "Electrical Anomaly": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1_score": 0.0,
+        "support": 1
+      }
+    }
+  }
+}
